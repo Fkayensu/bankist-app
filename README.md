@@ -5,7 +5,7 @@ Bankist App is a web application designed to simulate banking operations such as
 ## Preview
 
 ![alt text](image-1.png)
-![alt text](image.png)
+![alt text](image-2.png)
 
 ## Usage
 
