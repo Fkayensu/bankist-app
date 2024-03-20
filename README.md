@@ -35,5 +35,5 @@ The Bankist App is built using the following technologies:
 
 ## Credits
 
-- This project was inspired by Jonas Schmedtmann's [Bankist App](https://www.udemy.com/course/the-complete-javascript-course/) from the Udemy course "The Complete JavaScript Course 2021: From Zero to Expert!".
+- This project was inspired by Jonas Schmedtmann's [Bankist App](https://www.udemy.com/course/the-complete-javascript-course/) from the Udemy course "The Complete JavaScript Course 2024: From Zero to Expert!".
 - CSS design techniques were learned from the provided CSS file (`style.css`).
